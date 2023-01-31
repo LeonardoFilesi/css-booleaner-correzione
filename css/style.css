@@ -50,7 +50,7 @@
 }
 
 .pic-container {
-                height: 200px;
+                height: 450px;
                 margin-bottom: 10px;
 }
 
@@ -69,6 +69,10 @@
 .content table thead {
                     background-color: rgb(59, 110, 252);
                     color: white;
+}
+
+.odd-table-row {
+                background-color: rgb(29, 202, 255);
 }
 
 .footer-title {
