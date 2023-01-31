@@ -38,4 +38,8 @@
 .date {
         color: rgb(168, 168, 168);
         font-size: .7rem;
+}s
+
+.pic-container {
+                height: 300px;
 }
