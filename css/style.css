@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.highlight {
+            background-color: yellow;
+}
+
 .header {
         background-color: rgb(67, 186, 255);
         padding-top: 25px;
@@ -38,8 +42,26 @@
 .date {
         color: rgb(168, 168, 168);
         font-size: .7rem;
-}s
+}
 
 .pic-container {
-                height: 300px;
+                height: 200px;
+                margin-bottom: 10px;
+}
+
+.content {
+        font-size: .8rem;
+}
+
+.content-list {
+    margin: 1rem;
+}
+
+.content table {
+    border-spacing: 0;
+}
+
+.content table thead {
+                    background-color: rgb(59, 110, 252);
+                    color: white;
 }
