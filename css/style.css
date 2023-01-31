@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.container {
+            width: 80%;
+            margin: 0 auto;
+}
+
 .highlight {
             background-color: yellow;
 }
@@ -64,4 +69,14 @@
 .content table thead {
                     background-color: rgb(59, 110, 252);
                     color: white;
+}
+
+.footer-title {
+                color: gray;
+                font-size: .8rem;
+                margin-bottom: 1rem;
+}
+
+.article-item {
+
 }
