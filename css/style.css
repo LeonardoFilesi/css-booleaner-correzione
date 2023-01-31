@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+        background-color: rgb(67, 186, 255);
+        padding-top: 25px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        background-image: url(../img/pattern.png);
+        background-size: 250px;
+    }
+
+#header-logo {
+             width: 150px;
+}
+
+.title-container {
+                margin-top: 1rem;
+                margin-bottom: 1rem;
+}
+
+.main-title {
+             
+}
+
+.author-info {
+            color: grey;
+            font-size: .9rem;  
+}
+
+.fake-link {
+            color: rgb(39, 176, 255);
+}
+
+.date {
+        color: rgb(168, 168, 168);
+        font-size: .7rem;
+}
